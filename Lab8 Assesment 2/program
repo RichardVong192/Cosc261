@@ -1,0 +1,12 @@
+z := 2;
+
+if z < 3 then
+  z := 1
+else
+  z := 0
+end;
+
+while z != 3 do
+y := z-1;
+z := z + z
+end
