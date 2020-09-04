@@ -1,2 +1,2 @@
-# Cosc261 - Formal languages and compilers
-Git repo for Cosc261_2020_S1
+# Formal languages and compilers
+Git repo for designing a python compiler
